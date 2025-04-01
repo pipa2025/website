@@ -6,3 +6,5 @@ description: Partially ionized plasmas in astrophysics
 minima:
   skin: auto
   social_links: # (Keep your social links if needed)
+  plugins:
+  - jekyll-feed
