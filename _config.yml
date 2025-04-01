@@ -1,13 +1,18 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: minima
 title: PIPA 2025
 description: Partially ionized plasmas in astrophysics 
 logo: /assets/logo.jpg
 header_pages:
   logo_width: 1024px
   logo_height: 635px
-
 header_pages:
   - index.md
+  - registration.md
+  - accomodation.md
+  - program.md
+  - ocom.md
   - social.md
+  - travel.md
+  - contact.md
 
 

@@ -1,29 +1,39 @@
 ---
 layout: default
-title: Social programme
+title: "Social programme"
 permalink: /social/
 ---
 
 # Bergen city tour
 
-Bergen is a beautiful city by the fjords, surrounded by majestic mountains. Below are some stunning pictures from the city and the surrounding peaks. If you're planning a hiking trip, this webpage provides information on trails and huts across Norway.
+Bergen is a beautiful city by the fjords, surrounded by majestic mountains. Below are some stunning pictures from the city and the surrounding peaks. 
 
-https://ut.no/kart#8.98/60.2827/5.0824
+![Mountain View](/assets/im2.JPG)  
+*View from the city*
 
+![City at Night](/assets/im3.JPG)  
+*View towards Floyen*
 
+![City at Night](/assets/im10.JPG)  
+*View towards Ulriken*
 
-# Welcome to My Website  
+![City at Night](/assets/im6.JPG)  
+*City from above*
 
-This is a simple page where I showcase some pictures of my favorite places.
+![City at Night](/assets/im7.JPG)  
+*Winter in Bergen*
 
+![City at Night](/assets/im5.JPG)  
+*On Støledalen plateau*
 
-# Here are some great images:
+![City at Night](/assets/im8.JPG)  
+*On Støledalen plateau*
 
-![Mountain View](assets/im1.JPG)  
-*Figure 1: A beautiful mountain landscape.*
+![City at Night](/assets/im9.JPG)  
+*On Støledalen plateau*
 
-![City at Night](assets/im2.JPG)  
-*Figure 2: A vibrant city skyline at night.*
+If you're planning a hiking trip,  [UT.no](https://ut.no/kart#8.98/60.2827/5.0824) webpage provides information on trails and huts across Norway.
+
 
 [Back to Home](/)
 
