@@ -1,3 +1,8 @@
 theme: minima  # Replace 'minima' with any supported Jekyll theme
-title: My Jekyll Website
-description: A simple website powered by Jekyll and GitHub Pages.
+title: PIPA 2025
+description: Partially ionized plasmas in astrophysics 
+
+
+minima:
+  skin: auto
+  social_links: # (Keep your social links if needed)

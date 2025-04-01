@@ -1,0 +1,9 @@
+.site-title::before {
+    content: "";
+    display: inline-block;
+    background: url('/assets/logo.png') no-repeat center;
+    background-size: contain;
+    width: 50px;  /* Adjust size */
+    height: 50px; /* Adjust size */
+    margin-right: 10px;
+}
