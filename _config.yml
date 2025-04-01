@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal  # Replace 'minima' with any supported Jekyll theme
+remote_theme: cotes2020/jekyll-theme-chirpy
 title: PIPA 2025
 description: Partially ionized plasmas in astrophysics 
 logo: /assets/logo.jpg
