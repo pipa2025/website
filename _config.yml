@@ -1,7 +1,10 @@
 theme: minima  # Replace 'minima' with any supported Jekyll theme
 title: PIPA 2025
 description: Partially ionized plasmas in astrophysics 
-
+logo: /assets/logo.svg
+header_pages:
+  logo_width: 24px
+  logo_height: 24px
 
 minima:
   skin: auto
