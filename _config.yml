@@ -3,8 +3,8 @@ title: PIPA 2025
 description: Partially ionized plasmas in astrophysics 
 logo: /assets/logo.jpg
 header_pages:
-  logo_width: 60px
-  logo_height: 60px
+  logo_width: 1024px
+  logo_height: 635px
 
 jekyll-theme-minimal:
   skin: dark
