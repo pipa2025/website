@@ -35,5 +35,5 @@ Bergen is a beautiful city by the fjords, surrounded by majestic mountains. Belo
 If you're planning a hiking trip,  [UT.no](https://ut.no/kart#8.98/60.2827/5.0824) webpage provides information on trails and huts across Norway.
 
 
-[Back to Home](/)
+[Back to Home]({{ site.baseurl }}/)
 
