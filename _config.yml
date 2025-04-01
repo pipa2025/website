@@ -7,6 +7,7 @@ header_pages:
   logo_height: 635px
 header_pages:
   - index.md
+  - venue.md
   - registration.md
   - accommodation.md
   - program.md
