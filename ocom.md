@@ -11,7 +11,7 @@ permalink: /ocom/
 
 * Dr. I. Ballai (UK)
 * Prof. T. Downes (Ireland)
- Dr. M. Flock (Germany)
+* Dr. M. Flock (Germany)
 * Dr. H. Gilbert (NCAR, USA)
 * Dr. S.M. Hatch (Norway)
 * Dr. E. Khomenko (Spain)
