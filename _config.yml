@@ -6,8 +6,8 @@ header_pages:
   logo_width: 1024px
   logo_height: 635px
 
-jekyll-theme-minimal:
-  skin: dark
-  social_links: # (Keep your social links if needed)
-  plugins:
-  - jekyll-feed
+header_pages:
+  - index.md
+  - social.md
+
+
