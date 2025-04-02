@@ -10,8 +10,12 @@ title: Home
 The  "Partially Ionised Plasmas in Astrophysics"  series of conferences focuses on the study of partial ionization effects in astrophysical plasmas,  such as the solar chromosphere, the Earth's ionosphere, the interstellar medium, protostellar discs, etc.                           
 The meeting aims to enhance collaborations between scientists working on partial ionization effects in different fields.
 
+## Invited speakers
+
+TBA
+
 # Sponsors
-![Scostep/PRESTO](/assets/nrc-logo.jpg) 
+![NRC](/assets/nrc-logo.jpg) 
 *Norway Research Council*
 
 ![Scostep](/assets/presto_logo.jpg) 

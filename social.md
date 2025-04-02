@@ -34,6 +34,7 @@ Bergen is a beautiful city by the fjords, surrounded by majestic mountains. Belo
 
 If you're planning a hiking trip,  [UT.no](https://ut.no/kart#8.98/60.2827/5.0824) webpage provides information on trails and huts across Norway.
 
+If you love relaxing in a sauna and then cooling off in the sea, you can try a [floating sauna](https://www.laugaren.no/).
 
 [Back to Home]({{ site.baseurl }}/)
 
