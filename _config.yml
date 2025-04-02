@@ -7,13 +7,11 @@ header_pages:
   logo_height: 635px
 header_pages:
   - index.md
-  - venue.md
   - registration.md
-  - accommodation.md
-  - program.md
+  - venue.md
   - ocom.md
   - social.md
-  - travel.md
-  - contact.md
+  - program.md
+  - participants.md
 
 

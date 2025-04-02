@@ -6,7 +6,18 @@ permalink: /social/
 
 # Bergen city tour
 
-Bergen is a beautiful city by the fjords, surrounded by majestic mountains. Below are some stunning pictures from the city and the surrounding peaks. 
+
+Bergen is a beautiful city by the fjords, surrounded by majestic mountains.
+A walking tour over Bergen of approximately 3 hour duration will be organized in the afternoon on Wednesday, September 3rd.
+A conference dinner will follow the tour. The place and time of the dinner will be posted soon.
+
+Tourist information about Bergen can be found [online](https://www.visitbergen.com/).
+
+If you’re planning a hiking trip, [UT.no](https://ut.no/kart#8.98/60.2827/5.0824) webpage provides information on trails and huts across Norway.
+
+If you love relaxing in a sauna and then cooling off in the sea, you can try a [floating sauna](https://www.laugaren.no/).
+
+Below are some stunning pictures from the city and the surrounding peaks.
 
 ![Mountain View](/assets/im2.JPG)  
 *View from the city*
@@ -32,9 +43,6 @@ Bergen is a beautiful city by the fjords, surrounded by majestic mountains. Belo
 ![City at Night](/assets/im9.JPG)  
 *On Støledalen plateau*
 
-If you're planning a hiking trip,  [UT.no](https://ut.no/kart#8.98/60.2827/5.0824) webpage provides information on trails and huts across Norway.
-
-If you love relaxing in a sauna and then cooling off in the sea, you can try a [floating sauna](https://www.laugaren.no/).
 
 [Back to Home]({{ site.baseurl }}/)
 

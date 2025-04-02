@@ -33,3 +33,6 @@ permalink: /ocom/
 
 
 
+# UiB contact
+
+[Beatrice Popescu Braileanu](https://www4.uib.no/en/find-employees/Beatrice.Annemone.Popescu.Braileanu)
