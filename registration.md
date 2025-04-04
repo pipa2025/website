@@ -29,6 +29,14 @@ Payment options include:
 - Credit card: Visa or Mastercard
 - Vipps
 
+Thanks to the received support from our Sponsors, the Organisers of the meeting are pleased to be able to offer a limited number of 
+registration fee waivers to qualified applicants (PhD students). 
+If financial concerns will keep you from attending the meeting, you are invited to apply by filling in the justification box below. 
+The criteria for selection include scientific merit (based on the submitted abstract and application) 
+and demonstrated financial need. Recipients of the conference fee waiver will be notified via email. 
+For more details see the [Terms and Conditions]({{site.url}}/twaiver). 
+
+
 
 <div id="mf_placeholder"
      data-formurl="//skjemaker.app.uib.no/embed.php?id=18770736"

@@ -16,11 +16,11 @@ The dynamics of partially ionised astrophysical plasmas is a rapidly growing top
 2. Fundamental dynamical processes in partially ionised plasmas: waves, instabilities, dynamo, turbulence, etc.
 3. Observations and modelling of space and astrophysical partially ionised plasmas
 
-The meeting is supported by:
+<!-- The meeting is supported by:
 
 Norway Research Council (small logo)
 Scostep/PRESTO (small logo)
-
+-->
 The Scientific Program includes invited and keynote lectures and contributed talks. The Social Program includes a walking tour over Bergen, and a conference dinner. The conference registration fee includes all the coffee breaks, the conference material, social program and all lunches.
 
 

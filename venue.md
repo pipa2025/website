@@ -33,7 +33,7 @@ within walking distance from the conference venue.
 *Route from Grand Hotel Terminus and Zander K Hotel next to it to the conference venue*
 
 In order to make use of the special prices please contact the hotels **BEFORE 7th of JULY** using the code which will be sent 
-to you after you fill the registration and Abstract submission form (link to the form).
+to you after you fill the [Registration and abstract submission form]({{ site.baseurl }}/registration) .
 
 Alternatively, Bergen offset a wide variety of other hotels and accomodation options to be booked via standard platforms.
 
@@ -52,18 +52,17 @@ There are many boat companies, [Norled](https://www.norled.no/) being one which 
 
 No visa is required for citizens of countries of the European Union.
 
-Please check [this website](https://www.norway.no/en/) to see if you require a visa to enter Norway, or contact the nearest Norway  Embassy/Consulate inter country.
+Please check [this website](https://www.norway.no/en/) to see if you require a visa to enter Norway, or contact the nearest Norway  Embassy/Consulate in your country.
 
 This must be done several months before the conference is set to take place, since visa applications can take some time.
 
 If you require a visa, please contact the organizers  to request a letter of invitation with the following information:
 
-Full name, passport number and country of issue.
-Institution and preliminary title of communication.
-Full mailing address and a fax number to send the letter.
-Names and passport numbers of your accompanying persons, if any.
-
-Exact dates of arrival and departure, and the name of the hotel in which you are going to stay.
+- Full name, passport number and country of issue.
+- Institution and preliminary title of communication.
+- Full mailing address and a fax number to send the letter.
+- Names and passport numbers of your accompanying persons, if any.
+- Exact dates of arrival and departure, and the name of the hotel in which you are going to stay.
 
 
 Please, be sure to provide your name and the names of your accompanying persons exactly as written in the passports.
