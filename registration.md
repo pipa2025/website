@@ -34,7 +34,7 @@ registration fee waivers to qualified applicants (PhD students).
 If financial concerns will keep you from attending the meeting, you are invited to apply by filling in the justification box below. 
 The criteria for selection include scientific merit (based on the submitted abstract and application) 
 and demonstrated financial need. Recipients of the conference fee waiver will be notified via email. 
-For more details see the [Terms and Conditions]({{site.url}}/twaiver). 
+For more details see the [Terms and Conditions]({{site.baseurl}}/twaiver). 
 
 
 
