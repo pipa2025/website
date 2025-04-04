@@ -24,13 +24,17 @@ within walking distance from the conference venue.
 - Double room kr. 1.316
 
 
-[Terminus](https://www.debergenske.no/bergen/hotell-overnatting/grand-hotel-terminus) (15 rooms)
+[Grand Hotel Terminus](https://www.debergenske.no/bergen/hotell-overnatting/grand-hotel-terminus) (15 rooms)
 
 - Single room kr. 1.166
 - Double room kr. 1.466
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1971.365978565782!2d5.32681987762365!3d60.38963292570146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x463cfeaee5dd6657%3A0xc2191cbcc53f2cb4!2sGrand%20Hotel%20Terminus%2C%20Zander%20Kaaes%20gate%2C%20Bergen!3m2!1d60.3906735!2d5.3342827!4m5!1s0x463cfea9897e834b%3A0x3089fd377d671756!2sNyg%C3%A5rdsgaten%205%2C%205015%20Bergen!3m2!1d60.388898999999995!2d5.324506899999999!5e0!3m2!1ses!2sno!4v1743527282607!5m2!1ses!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-*Route from Grand Hotel Terminus and Zander K Hotel next to it to the conference venue*
+[Clarion Hotel Admiral](https://www.strawberry.no/hotell/norge/bergen/clarion-hotel-admiral/?utm_campaign=bb-sok-no-brand-hotel&gad_source=1&gclid=Cj0KCQjwhr6_BhD4ARIsAH1YdjAcC8vUCXA1ssvslryamZya1b9VhytOOIm6cBskvzHUeybxTUF8uGgaAjChEALw_wcB)
+- Double room kr. 1.790 (price for one person,  + kr. 200 for extra person) 
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZHx_4mOB_h5hqwu-XSXe-lLkXZ9G1XM&ehbc=2E312F" width="640" height="480"></iframe>
+*Grand Hotel Terminus, Zander K Hotel (one next to the other close to the train station)  and Clarion Hotel Admiral (on the sea shore) shown with red markers and the conference venue with orange marker*
 
 In order to make use of the special prices please contact the hotels **BEFORE 7th of JULY** using the code which will be sent 
 to you after you fill the [Registration and abstract submission form]({{ site.baseurl }}/registration) .
