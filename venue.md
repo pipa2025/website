@@ -15,10 +15,10 @@ The conference venue is easily accessible by public transport from Bergen airpor
 
 # Accommodation
 
-A total of 45 rooms have been pre-booked at the following two hotels at the negotiated price. The hotels are situated one next to the other, 
+ ooms have been pre-booked at the following two hotels at the negotiated price. The hotels are situated
 within walking distance from the conference venue.
 
-[Zander K](https://www.debergenske.no/bergen/hotell-overnatting/zander-k-hotel)  (30 rooms)
+[Zander K Hotel](https://www.debergenske.no/bergen/hotell-overnatting/zander-k-hotel)  (30 rooms)
 
 - Single room kr. 1.016
 - Double room kr. 1.316
@@ -29,14 +29,15 @@ within walking distance from the conference venue.
 - Single room kr. 1.166
 - Double room kr. 1.466
 
-[Clarion Hotel Admiral](https://www.strawberry.no/hotell/norge/bergen/clarion-hotel-admiral/?utm_campaign=bb-sok-no-brand-hotel&gad_source=1&gclid=Cj0KCQjwhr6_BhD4ARIsAH1YdjAcC8vUCXA1ssvslryamZya1b9VhytOOIm6cBskvzHUeybxTUF8uGgaAjChEALw_wcB)
+[Clarion Hotel Admiral](https://www.strawberry.no/hotell/norge/bergen/clarion-hotel-admiral/?utm_campaign=bb-sok-no-brand-hotel&gad_source=1&gclid=Cj0KCQjwhr6_BhD4ARIsAH1YdjAcC8vUCXA1ssvslryamZya1b9VhytOOIm6cBskvzHUeybxTUF8uGgaAjChEALw_wcB) (30 rooms)
 - Double room kr. 1.790 (price for one person,  + kr. 200 for extra person) 
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZHx_4mOB_h5hqwu-XSXe-lLkXZ9G1XM&ehbc=2E312F" width="640" height="480"></iframe>
 *Grand Hotel Terminus, Zander K Hotel (one next to the other close to the train station)  and Clarion Hotel Admiral (on the sea shore) shown with red markers and the conference venue with orange marker*
 
-In order to make use of the special prices please contact the hotels **BEFORE 7th of JULY** using the code which will be sent 
+In order to make use of the special prices please contact the hotels **BEFORE 7th of JULY**  for the first two options (Zander K and Terminus)
+and  **BEFORE 18th of JULY** for the third (Clarion) using the instructions which will be sent 
 to you after you fill the [Registration and abstract submission form]({{ site.baseurl }}/registration) .
 
 Alternatively, Bergen offset a wide variety of other hotels and accomodation options to be booked via standard platforms.
