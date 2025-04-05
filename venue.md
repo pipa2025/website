@@ -15,7 +15,7 @@ The conference venue is easily accessible by public transport from Bergen airpor
 
 # Accommodation
 
- ooms have been pre-booked at the following two hotels at the negotiated price. The hotels are situated
+ Rooms have been pre-booked at the following two hotels at the negotiated price. The hotels are situated
 within walking distance from the conference venue.
 
 [Zander K Hotel](https://www.debergenske.no/bergen/hotell-overnatting/zander-k-hotel)  (30 rooms)
